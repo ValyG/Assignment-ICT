@@ -1,0 +1,95 @@
+{
+  "assessmentCollection": [
+    {
+      "id": "63b76743-bfec-48a8-b62c-f919fa19f430",
+      "weight": "100",
+      "chest": "120",
+      "thigh": "100",
+      "upperarm": "45",
+      "waist": "130",
+      "hips": "130",
+      "memberid": "fdd8c63c-65da-477c-9a3b-526d58a06eb0",
+      "date": "9/1/2019, 3:23:35 PM",
+      "comment": "Good work!!",
+      "trend": true
+    },
+    {
+      "id": "008a86d4-7433-49f3-b571-b8e03cc3b629",
+      "weight": "62",
+      "chest": "100",
+      "thigh": "98",
+      "upperarm": "30",
+      "waist": "103",
+      "hips": "130",
+      "memberid": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+      "date": "9/1/2019, 3:42:22 PM",
+      "comment": "Good work!!",
+      "trend": true
+    },
+    {
+      "id": "cfe28b9b-8181-4c60-a16f-dccab2b9c327",
+      "weight": "64",
+      "chest": "106",
+      "thigh": "100",
+      "upperarm": "34",
+      "waist": "106",
+      "hips": "135",
+      "memberid": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+      "date": "9/1/2019, 3:45:25 PM",
+      "comment": "Work harder!!",
+      "trend": true
+    },
+    {
+      "id": "2655404c-f5d6-4a29-9fa9-2c53ad060be5",
+      "weight": "70",
+      "chest": "160",
+      "thigh": "120",
+      "upperarm": "36",
+      "waist": "120",
+      "hips": "140",
+      "memberid": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+      "date": "9/1/2019, 3:46:40 PM",
+      "comment": "We need to review the assessments !!",
+      "trend": false
+    },
+    {
+      "id": "b33fdfa2-fb24-4634-babd-fb9aa3cc2f03",
+      "weight": "120",
+      "chest": "160",
+      "thigh": "120",
+      "upperarm": "60",
+      "waist": "140",
+      "hips": "150",
+      "memberid": "fdd8c63c-65da-477c-9a3b-526d58a06eb0",
+      "date": "9/1/2019, 7:10:39 PM",
+      "comment": "Extra work is need it!",
+      "trend": true
+    },
+    {
+      "id": "adbd02c9-5911-4fbd-893d-4447762f0d88",
+      "weight": "180",
+      "chest": "180",
+      "thigh": "130",
+      "upperarm": "65",
+      "waist": "150",
+      "hips": "160",
+      "memberid": "fdd8c63c-65da-477c-9a3b-526d58a06eb0",
+      "date": "9/1/2019, 7:27:08 PM",
+      "comment": "We need to implement new strategy !",
+      "trend": false
+    },
+    {
+      "id": "be266773-dbed-4f78-bc65-2809afa097bd",
+      "weight": "89",
+      "chest": "130",
+      "thigh": "78",
+      "upperarm": "42",
+      "waist": "46",
+      "hips": "120",
+      "memberid": "7349b66f-72f0-438e-aa43-ac9c61263e41",
+      "date": "9/1/2019, 7:36:47 PM",
+      "comment": "",
+      "trend": true
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "members": [
+    {
+      "name": "John",
+      "gender": "Male",
+      "email": "john@yahoo.com",
+      "password": "1234",
+      "address": "Wexford",
+      "height": "1.90",
+      "startingweight": "100",
+      "id": "fdd8c63c-65da-477c-9a3b-526d58a06eb0",
+      "assessments": [
+        {
+          "id": "63b76743-bfec-48a8-b62c-f919fa19f430",
+          "weight": "100",
+          "chest": "120",
+          "thigh": "100",
+          "upperarm": "45",
+          "waist": "130",
+          "hips": "130",
+          "memberid": "fdd8c63c-65da-477c-9a3b-526d58a06eb0",
+          "date": "9/1/2019, 3:23:35 PM",
+          "comment": "",
+          "trend": true
+        }
+      ]
+    },
+    {
+      "name": "Valy",
+      "gender": "Female",
+      "email": "valushv@yahoo.com",
+      "password": "1234",
+      "address": "Enniscorthy",
+      "height": "1.56",
+      "startingweight": "60",
+      "id": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+      "assessments": [
+        {
+          "id": "008a86d4-7433-49f3-b571-b8e03cc3b629",
+          "weight": "62",
+          "chest": "100",
+          "thigh": "98",
+          "upperarm": "30",
+          "waist": "103",
+          "hips": "130",
+          "memberid": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+          "date": "9/1/2019, 3:42:22 PM",
+          "comment": "Good work!!",
+          "trend": true
+        },
+        {
+          "id": "cfe28b9b-8181-4c60-a16f-dccab2b9c327",
+          "weight": "64",
+          "chest": "106",
+          "thigh": "100",
+          "upperarm": "34",
+          "waist": "106",
+          "hips": "135",
+          "memberid": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+          "date": "9/1/2019, 3:45:25 PM",
+          "comment": "Work harder!!",
+          "trend": true
+        },
+        {
+          "id": "2655404c-f5d6-4a29-9fa9-2c53ad060be5",
+          "weight": "70",
+          "chest": "160",
+          "thigh": "120",
+          "upperarm": "36",
+          "waist": "120",
+          "hips": "140",
+          "memberid": "b82e0ee6-48bf-4980-b98c-3cbce5b1777c",
+          "date": "9/1/2019, 3:46:40 PM",
+          "comment": "We need to review the assessments !!",
+          "trend": false
+        }
+      ]
+    },
+    {
+      "name": "Kelly",
+      "gender": "Female",
+      "email": "kelly@yahoo.com",
+      "password": "1234",
+      "address": "Waterford",
+      "height": "1.89",
+      "startingweight": "78",
+      "id": "7349b66f-72f0-438e-aa43-ac9c61263e41"
+    }
+  ]
+}
