@@ -1,4 +1,3 @@
-Welcome to the Playlist 4
+Welcome to Gym Application!!
 =========================
-
-Version 4 of the Playlist application
+Enter your details and track your workouts
